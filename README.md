@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm vumeA</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 
-💫 About Me:
+💫 About Me:<br>
 🔭 Developer in a small IT department focused on e-learning.<br>
 🌱 Exploring the AI ecosystem and expanding my skills.
 
